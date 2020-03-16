@@ -1,0 +1,7 @@
+RewriteEngine on 
+RewriteRule ^([a-zA-Z0-9\-\_\/]*)$ index.php?opt=$1
+
+<Files "connections.ini">
+Order Allow,Deny
+Deny from all
+</Files>
