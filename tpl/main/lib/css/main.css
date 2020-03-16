@@ -1,0 +1,59 @@
+.aprowf{
+    background: url(../img/chema-appro_a.png) no-repeat center;
+    width: 988px;
+    height: 518px;
+    margin: auto;
+}
+
+.infbull{
+    position: relative;
+    color:#e1e1e8;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+}
+
+.bcn{
+    top:45px;
+    left:108px;
+}
+
+#bcn{
+    font-size: 24px;
+}
+
+.dapp{
+     top:15px;
+    left: 270px;
+}
+
+
+.be{
+     display: none;
+    top:70px;
+    left: 230px;
+}
+
+.cont{
+     display: none;
+    top:50px;
+    left: 50px;
+}
+
+.ol{
+     display: none;
+    top:50px;
+    left: 50px;
+}
+
+.trans{
+   top:60px;
+    left: 223px;
+}
+
+#trans{
+    font-size: 18px;
+}
+

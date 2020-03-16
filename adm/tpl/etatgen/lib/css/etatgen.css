@@ -1,0 +1,197 @@
+/* 
+    Document   : stl1
+    Created on : 2 mai 2013, 13:07:11
+    Author     : mimsou
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+
+}
+.main{
+    width: 1024px;
+    margin: auto;
+}
+.add{
+    display: inline-block;
+    background: url("../img/bouton.jpg") no-repeat 0px 0px ;
+    width: 22px;
+    height: 23px;
+}
+#print{
+    display: inline-block;
+    background: url("../img/bouton.jpg") no-repeat -79px 0px ;
+    width: 22px;
+    height: 23px;
+    position: relative;
+    left: 5px;
+}
+.addSub{
+    display: block;
+    background: url("../img/bouton.jpg") no-repeat -44px 0px ;
+    width: 17px;
+    height: 17px;
+    left: 15px;
+    position: relative;
+    top: 5px;
+    margin-bottom: 10px;
+}
+
+.underscoreB{
+    display: inline-block;
+    font: 20px sans-serif ;
+    color: #0066cc;
+    position: relative;
+    top: -10px;
+}
+
+.underscoreS{
+    display: inline-block;
+    font: 16px sans-serif ;
+    color: #999999;
+    position: relative;
+    top: 3px;
+}
+
+.rmvMain{
+    display: inline-block;
+    background: url("../img/bouton.jpg") no-repeat -23px 0px ;
+    width: 22px;
+    height: 23px;
+    position: relative;
+    top: -4px;
+    left: 10px;
+}
+
+.rmvSub{
+    display: inline-block;
+    background: url("../img/bouton.jpg") no-repeat -61px 0px ;
+    width: 17px;
+    height: 17px; 
+    position: relative;
+    top: 2px;
+    left: 3px;
+}
+
+.Title{
+
+    font: 28px sans-serif Verdana ;
+    color: #333333;
+    text-align: center;
+}
+
+.BigBox{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 1px #999999 solid;
+}
+
+.SmallBox{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border: 1px #999999 solid;
+}
+
+.editTaskBig{
+
+    margin-left: 15px;
+
+    display: inline-block; 
+    position: relative;
+    top : -8px;
+
+    font: 24px sans-serif Verdana ;
+    color: #0066cc;
+
+}
+
+.lineB{
+    display: inline-block; 
+    position: relative;
+    top : -8px; 
+    width: 250px;
+    height: 2px;
+    border-bottom: #999999 1px solid;
+}
+.editInputTaskBig{
+    font: 24px sans-serif Verdana ;
+    color: #0066cc;
+    width: 500px;
+}
+.lineS{
+    display: inline-block;
+    margin-left: 5px;
+    position: relative;
+    top : -5px; 
+    height: 2px;
+    width: 247px;
+    border-bottom: #999999 1px dotted;
+}
+
+.editTaskSmall{
+
+    margin-left: 7px;
+
+    display: inline-block; 
+    position: relative;
+    top : -1px;
+
+    font: 18px sans-serif Verdana ;
+    color: #999999;
+
+}
+
+#mainBlok{
+
+}
+
+.editInputTaskTitle{
+    display: block;
+    margin: auto;
+    font: 28px sans-serif Verdana ;
+    color: #333333;
+    text-align: center;
+}
+
+.subBlock{
+    margin-left: 40px;
+    margin-bottom: 3px;
+}
+
+#mainBlkChek{
+
+}
+.mainTitle{
+    margin-bottom: 15px;
+}
+
+#SubBlkChek{
+
+}
+
+.subTitle{
+
+}
+#clownes{
+    display: none;
+}
+
+.connect-in{
+    background-color: #d9596d;
+    display: inline-block;
+    height: 12px;
+    width: 12px;
+}
+
+.connect-out{
+    background-color: #568cc2;
+    display: inline-block;
+    height: 12px;
+    width: 12px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
